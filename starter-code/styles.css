@@ -19,22 +19,40 @@ li{
 body{
     background-image: url('./assets/home/background-home-desktop.jpg')
 }
-p{
-    color: white;
-}
-h1{
-    color: white;
 
-}
-h3{
-    color: white;
-}
 #home-text{
-    height: 600px;
-    width: 200px;
+    height: 200px;
+    width: 100px;
     display: flex;
     flex-direction: column;
+    color: white;
+    
+
+    
+    
 }
+#home-text h3{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+}
+#home-text h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    
+}
+#home-text p{
+    color: white;
+    font-size:30px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
 #explore-button{
  float:right;
  height: 100px;
