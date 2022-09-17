@@ -19,6 +19,9 @@ li{
 body{
     background-image: url('./assets/home/background-home-desktop.jpg')
 }
+#destination-body{
+    background-image: url('./assets/destination/background-destination-desktop.jpg')
+}
 
 #home-text{
     height: 200px;
